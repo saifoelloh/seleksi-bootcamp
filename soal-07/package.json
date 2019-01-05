@@ -1,0 +1,23 @@
+{
+  "name": "soal-07",
+  "version": "1.0.0",
+  "description": "Mengambil data dari serve menggunakan javascript",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "nodejs",
+    "javascript",
+    "arkademy",
+    "doscom"
+  ],
+  "author": "moh. saifoelloh noor",
+  "license": "ISC",
+  "dependencies": {
+    "body-parser": "^1.18.3",
+    "express": "^4.16.4",
+    "express-handlebars": "^3.0.0",
+    "mysql": "^2.16.0"
+  }
+}
